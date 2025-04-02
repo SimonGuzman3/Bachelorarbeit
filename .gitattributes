@@ -1,5 +1,2 @@
 graph_tables/** filter=lfs diff=lfs merge=lfs -text
 graph_testinstances/** filter=lfs diff=lfs merge=lfs -text
-graph_testinstances/random_0006.col filter=lfs diff=lfs merge=lfs -text
-graph_testinstances/random_0009.col filter=lfs diff=lfs merge=lfs -text
-graph_tables/graph_data_all.h5 filter=lfs diff=lfs merge=lfs -text
