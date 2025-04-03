@@ -1,2 +1,5 @@
 graph_tables/** filter=lfs diff=lfs merge=lfs -text
 graph_testinstances/** filter=lfs diff=lfs merge=lfs -text
+C:/Users/simon/OneDrive/Desktop/Uni/Uni/neuntes[[:space:]]Semester/Bachelorarbeit/BachelorarbeitCode/graph_testinstances/random_0004.col filter=lfs diff=lfs merge=lfs -text
+C:/Users/simon/OneDrive/Desktop/Uni/Uni/neuntes[[:space:]]Semester/Bachelorarbeit/BachelorarbeitCode/graph_testinstances/random_0006.col filter=lfs diff=lfs merge=lfs -text
+C:/Users/simon/OneDrive/Desktop/Uni/Uni/neuntes[[:space:]]Semester/Bachelorarbeit/BachelorarbeitCode/graph_testinstances/random_0009.col filter=lfs diff=lfs merge=lfs -text
